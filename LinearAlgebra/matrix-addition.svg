@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="370.6286"
+   height="107.0108"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="matrix-addition.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4658334"
+     inkscape:cx="220.69357"
+     inkscape:cy="41.614552"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="720"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showborder="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(312.67084,-1133.6676)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <circle
+       r="19.347067"
+       cy="1194.6285"
+       cx="-4.1239209"
+       id="path4114-0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff2b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate" />
+    <circle
+       r="19.347067"
+       cy="1195.8921"
+       cx="-152.55922"
+       id="path4114-6"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff2b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate" />
+    <circle
+       r="19.347067"
+       cy="1194.4529"
+       cx="-286.43143"
+       id="path4114"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#fff2b3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -301.47059,1184.114 c -2.84086,-0.3714 -6.20197,-0.1989 -8.83176,-0.386 3.04975,-2.1601 0.30744,7.6006 1.1966,9.7868 -0.45539,14.4604 -0.77385,29.7084 -0.3066,43.782 -0.79769,-0.7312 2.92848,-0.021 3.74361,-0.2798 1.91249,0.4517 5.55735,-1.2667 4.44193,2.2685 -0.54117,1.7362 -4.25125,0.2538 -6.00243,0.7263 -3.1921,0.7781 -6.25077,-1.3886 -5.36921,-4.9088 -0.0802,-17.7641 0.24417,-35.5737 0.734,-53.2983 2.57746,-2.1651 6.76987,-0.3717 9.99021,-0.7181 1.72009,-0.3296 0.11252,2.2229 0.40365,3.0274 z"
+       id="path3337-4-06"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0169c9;fill-opacity:1;fill-rule:nonzero;stroke:#636466;stroke-width:0.143253;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0169c9;fill-opacity:1;fill-rule:nonzero;stroke:#636466;stroke-width:0.143253;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path3339-3-61"
+       d="m -235.67771,1183.9135 c 2.84796,-0.2908 6.20266,-0.1169 8.83755,-0.2095 -2.90212,-2.3049 -0.56471,6.6899 -1.39133,8.8239 0.31375,14.4899 -0.0852,31.2006 -0.39441,44.5595 -0.88175,-0.3352 -4.48257,-0.096 -6.2959,-0.2061 -2.2354,-1.3904 -3.16517,2.7691 -1.3832,2.9019 3.3564,-0.4626 8.05643,1.5899 10.31824,-1.4914 1.43453,-18.5768 0.47429,-37.3999 0.85661,-56.0622 -1.92127,-2.9486 -6.56261,-0.83 -9.65119,-1.3914 -2.28221,-0.395 -0.67039,1.7744 -0.89637,3.0753 z" />
+    <text
+       id="text3345-12-8"
+       y="1232.8652"
+       x="-292.61819"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#fd3301;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="1232.8652"
+         x="-292.61819"
+         id="tspan3347-3-4"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4153px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">4</tspan></text>
+    <text
+       id="text3345-1-3-9"
+       y="1202.7653"
+       x="-293.1127"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#fd3301;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="1202.7653"
+         x="-293.1127"
+         id="tspan3347-7-4-6"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4153px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">3</tspan></text>
+    <text
+       id="text3345-0-1-37"
+       y="1202.7653"
+       x="-259.08072"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#fd3301;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="1202.7653"
+         x="-259.08072"
+         id="tspan3347-9-1-8"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4153px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">8</tspan></text>
+    <text
+       id="text3345-0-4-2-8"
+       y="1232.8652"
+       x="-259.40421"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#fd3301;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="1232.8652"
+         x="-259.40421"
+         id="tspan3347-9-5-7-2"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4153px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">6</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0169c9;fill-opacity:1;fill-rule:nonzero;stroke:#636466;stroke-width:0.143253;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path3696-9"
+       d="m -165.4706,1184.114 c -2.84083,-0.3714 -6.2019,-0.1989 -8.83165,-0.386 3.0491,-2.1601 0.30788,7.6006 1.1966,9.7868 -0.45552,14.4604 -0.77402,29.7083 -0.3057,43.782 -0.79663,-0.731 2.9286,-0.021 3.7446,-0.2798 1.91249,0.4517 5.55735,-1.2667 4.44193,2.2685 -0.54117,1.7362 -4.25125,0.2538 -6.00243,0.7263 -3.1921,0.7781 -6.25076,-1.3886 -5.3692,-4.9088 -0.0817,-17.7641 0.24329,-35.5737 0.733,-53.2983 2.57746,-2.1651 6.76987,-0.3717 9.9902,-0.7181 1.7196,-0.3298 0.11355,2.2231 0.40265,3.0274 z" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -99.677699,1183.9135 c 2.847917,-0.2908 6.202738,-0.1169 8.83752,-0.2095 -3.006284,-2.2205 -0.459823,7.5929 -1.391275,9.7611 0.241084,14.4494 0.06342,29.6053 -0.481835,43.6802 0.575779,-0.4318 -3.409435,-0.097 -4.50569,-0.264 -1.84805,0.2387 -4.798311,-1.1415 -3.800511,2.1704 0.50783,1.7262 4.24522,0.3455 5.986751,0.8445 3.174021,0.8374 6.28123,-1.2481 5.46176,-4.7943 0.451133,-17.7584 0.460215,-35.5712 0.33097,-53.3022 -2.655802,-2.2492 -7.032216,-0.5309 -10.368515,-0.8935 -0.979546,-0.1398 0.165156,2.4175 -0.06918,3.0073 z"
+       id="path3698-1"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0169c9;fill-opacity:1;fill-rule:nonzero;stroke:#636466;stroke-width:0.143253;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#fd3301;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       x="-157.61841"
+       y="1232.8652"
+       id="text3700-3"><tspan
+         sodipodi:role="line"
+         id="tspan3702-5"
+         x="-157.61841"
+         y="1232.8652"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4153px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#fd3301;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       x="-158.11261"
+       y="1202.7653"
+       id="text3704-9"><tspan
+         sodipodi:role="line"
+         id="tspan3706-8"
+         x="-158.11261"
+         y="1202.7653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4153px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#fd3301;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       x="-123.0809"
+       y="1202.7653"
+       id="text3708-4"><tspan
+         sodipodi:role="line"
+         id="tspan3710-0"
+         x="-123.0809"
+         y="1202.7653"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4153px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#fd3301;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       x="-131.40401"
+       y="1232.8652"
+       id="text3712-7"><tspan
+         sodipodi:role="line"
+         id="tspan3714-6"
+         x="-131.40401"
+         y="1232.8652"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4153px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">-9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#0197fd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       x="-208.3434"
+       y="1222.9042"
+       id="text3716-3"><tspan
+         sodipodi:role="line"
+         id="tspan3718-6"
+         x="-208.3434"
+         y="1222.9042"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.1366px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#0197fd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       x="-68.303207"
+       y="1222.9583"
+       id="text3716-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan3718-0-5"
+         x="-68.303207"
+         y="1222.9583"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.1366px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">=</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m -18.499729,1184.663 c -2.840933,-0.3714 -6.201719,-0.1989 -8.83175,-0.386 3.048975,-2.1602 0.306656,7.6006 1.1966,9.7868 -0.455455,14.4604 -0.773937,29.7083 -0.30615,43.782 -0.797161,-0.7307 2.928538,-0.019 3.7441,-0.2788 1.912491,0.4517 5.557345,-1.2667 4.441927,2.2685 -0.541171,1.7361 -4.25125,0.2536 -6.002427,0.7273 -3.192218,0.7781 -6.250415,-1.3887 -5.3698,-4.9088 -0.08149,-17.7641 0.24419,-35.5737 0.7325,-53.2983 2.577607,-2.1723 6.769715,-0.3547 9.9902,-0.7081 1.721199,-0.3373 0.106871,2.2598 0.4048,3.0154 z"
+       id="path3337-4-0-4"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0169c9;fill-opacity:1;fill-rule:nonzero;stroke:#636466;stroke-width:0.143253;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0169c9;fill-opacity:1;fill-rule:nonzero;stroke:#636466;stroke-width:0.143253;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path3339-3-6-2"
+       d="m 47.293161,1184.4625 c 2.847919,-0.2908 6.202742,-0.1169 8.837525,-0.2095 -3.006266,-2.2205 -0.4599,7.5929 -1.391175,9.761 0.241009,14.4495 0.06357,29.6054 -0.481935,43.6803 0.575771,-0.4318 -3.409438,-0.098 -4.5057,-0.264 -1.848064,0.2387 -4.798348,-1.1415 -3.800558,2.1704 0.50785,1.7265 4.245249,0.3453 5.986798,0.8445 3.174021,0.8374 6.28123,-1.2481 5.46176,-4.7943 0.451373,-17.7584 0.460288,-35.5712 0.33097,-53.3022 -2.655808,-2.2495 -7.03222,-0.5289 -10.368525,-0.8925 -0.979451,-0.1401 0.164816,2.4166 -0.06916,3.0063 z" />
+    <text
+       id="text3345-12-1-0"
+       y="1233.4142"
+       x="-9.6477051"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#fd3301;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="1233.4142"
+         x="-9.6477051"
+         id="tspan3347-3-3-9"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4153px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">5</tspan></text>
+    <text
+       id="text3345-1-3-8-7"
+       y="1203.3142"
+       x="-10.141708"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#fd3301;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="1203.3142"
+         x="-10.141708"
+         id="tspan3347-7-4-9-3"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4153px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">7</tspan></text>
+    <text
+       id="text3345-0-1-3-7"
+       y="1203.3142"
+       x="23.889786"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#fd3301;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="1203.3142"
+         x="23.889786"
+         id="tspan3347-9-1-4-2"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4153px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">8</tspan></text>
+    <text
+       id="text3345-0-4-2-4-6"
+       y="1232.0697"
+       x="18.197296"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#fd3301;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="1232.0697"
+         x="18.197296"
+         id="tspan3347-9-5-7-6-0"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.4153px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';stroke-width:0.55">-3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6px;line-height:0%;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#f5c211;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate"
+       x="-113.63007"
+       y="1149.2585"
+       id="text4024"><tspan
+         sodipodi:role="line"
+         id="tspan4026"
+         x="-113.63007"
+         y="1149.2585"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.4153px;line-height:1;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS Bold';fill:#f5c211;fill-opacity:1;stroke-width:0.55">3+4=7</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m -152.48025,1175.6341 c 15.78953,-16.6283 40.04856,-21.7829 62.169707,-22.8307 27.557876,-1.5155 55.305181,7.0287 77.013156,24.137 -6.268781,7.3999 -17.023985,-11.1085 -26.039745,-10.9396 -27.469349,-12.1636 -59.956685,-12.2283 -88.020508,-1.9819 -9.35666,0.5476 -17.25687,14.6015 -24.35748,12.1706 l -0.61813,-0.4481 -0.147,-0.1066 z"
+       id="path4941"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f5c211;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -290.96217,1174.2604 c 26.20324,-21.7393 62.53441,-30.3598 95.56822,-21.7405 17.56584,4.1287 34.10772,12.4176 48.00396,23.919 -5.09063,7.574 -13.11136,-8.63 -20.25262,-8.9692 -33.84878,-19.009 -78.32987,-19.5757 -110.81349,2.8022 -4.57846,0.9391 -8.97096,10.6617 -12.50607,3.9885 z"
+       id="path4943"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f5c211;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -34.205972,1172.8077 c 6.740312,-1.8162 13.475791,1.2961 19.833835,3.3019 0.01622,4.978 -3.059479,3.3082 -6.16421,2.162 -3.944301,-1.1256 -8.140409,-2.7678 -12.27373,-1.7162 -0.465268,-1.2492 -0.930744,-2.4984 -1.395895,-3.7477 z"
+       id="path4945"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f5c211;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m -20.380082,1164.2671 c 1.021855,4.9316 4.207925,9.0256 7.169565,12.9693 -3.097271,4.5366 -4.913294,0.1897 -6.831755,-2.5819 -1.155568,-2.7278 -7.1473,-10.0574 -2.040927,-10.2518 0.567513,-0.045 1.135784,-0.091 1.703117,-0.1356 z"
+       id="path4947"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#f5c211;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.55;marker:none;enable-background:accumulate" />
+  </g>
+</svg>
